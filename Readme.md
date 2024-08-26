@@ -1,6 +1,6 @@
 # Moez
 
-Hi there! I’m Moez, a developer passionate about creating innovative web and app solutions.
+Hi there! I’m Moez, a developer passionate about creating innovative AI based web and app solutions.
 
 ## What I’m Working On
 
