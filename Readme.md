@@ -1,12 +1,12 @@
 # Moez
 
-Hi there! I’m Moez, a developer passionate about creating innovative AI based web and app solutions.
+Hi there! I’m Moez, a developer passionate about creating innovative AI based web app solutions.
 
 ## What I’m Working On
 
 🔭 Currently, I’m engaged in various AI based web app development projects.
 
-🌱 I have expertise in the Next JS,Typescript,Postgresql,C++,Python and Machine Learning and related technologies.
+🌱 I have expertise in the Next JS,Typescript, Postgresql, C++,Python, Machine Learning, Deep Learning and related technologies.
 
 ## Projects
 
@@ -18,7 +18,7 @@ Check out my portfolio here: [Moez's Portfolio](https://moezin.tech).
 
 ## Contact
 
-Feel free to reach out to me at [moez@example.com](mailto:moizahsan5@gmail.com).
+Feel free to reach out to me at [moizahsan5@gmail.com](mailto:moizahsan5@gmail.com).
 
 ## LinkedIn
 
