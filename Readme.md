@@ -6,7 +6,17 @@ Hi there! I’m Moez, a developer passionate about creating innovative AI based 
 
 🔭 Currently, I’m engaged in various AI based web app development projects.
 
-🌱 I have expertise in the Next JS,Typescript, Postgresql, C++,Python, Machine Learning, Deep Learning and related technologies.
+ I have expertise in:
+- **Next.js**
+- **TypeScript**
+- **PostgreSQL**
+- **C++**
+- **Python**
+- **Machine Learning**
+- **Deep Learning**
+- **Object-Oriented Programming (OOP)**
+- **Data Structures and Algorithms (DSA)**
+- **Database Administration (DBA)**
 
 ## Projects
 
