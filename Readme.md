@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Moez, a developer passionate about creating innovative AI based web app solutions.
+Hi there! I’m Moez, a Full Stack developer and AI/ML/DL Engineer passionate about creating innovative AI based web app solutions.
 
 
 # 💻 Tech Stack:
