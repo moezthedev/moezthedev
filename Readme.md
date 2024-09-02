@@ -21,7 +21,7 @@ Hi there! I’m Moez, a Full Stack developer and AI/ML/DL Engineer passionate ab
 
 🔭 Currently, I’m engaged in various AI based web app development projects.
 
- I have expertise in:
+##  I have expertise in
 - **Next.js**
 - **TypeScript**
 - **PostgreSQL**
