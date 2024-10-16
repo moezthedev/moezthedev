@@ -39,7 +39,7 @@ Explore my projects on [GitHub](https://github.com/moezthedev).
 
 ## Portfolio
 
-Check out my portfolio here: [Moez's Portfolio](https://moezin.tech).
+Check out my portfolio here: [Moez's Portfolio](https://moezintech.netlify.app).
 
 ## Contact
 
