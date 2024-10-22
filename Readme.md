@@ -19,7 +19,7 @@ Hi there! I’m Moez, a Full Stack developer and AI/ML/DL Engineer passionate ab
 
 ## What I’m Working On
 
-🔭 Currently, I’m engaged in various AI based web app development projects.
+🔭 Currently, I’m working on various AI based web app development projects.
 
 ##  I have expertise in
 - **Next.js**
